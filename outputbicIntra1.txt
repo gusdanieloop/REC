@@ -1,0 +1,37 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.2.2 port 5001 connected with 10.0.6.2 port 49260
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-10.0 sec  47.1 GBytes  40.4 Gbits/sec
+[  5] local 10.0.2.2 port 5001 connected with 10.0.7.2 port 59072
+[  5]  0.0-10.0 sec  48.1 GBytes  41.3 Gbits/sec
+[  4] local 10.0.2.2 port 5001 connected with 10.0.8.2 port 59692
+[  4]  0.0-10.0 sec  45.9 GBytes  39.4 Gbits/sec
+[  5] local 10.0.2.2 port 5001 connected with 10.0.9.2 port 35936
+[  5]  0.0-10.0 sec  48.0 GBytes  41.2 Gbits/sec
+[  4] local 10.0.2.2 port 5001 connected with 10.0.6.2 port 49292
+[  4]  0.0-10.0 sec  36.5 GBytes  31.3 Gbits/sec
+[  5] local 10.0.2.2 port 5001 connected with 10.0.7.2 port 59104
+[  5]  0.0-10.0 sec  37.6 GBytes  32.3 Gbits/sec
+[  4] local 10.0.2.2 port 5001 connected with 10.0.8.2 port 59724
+[  4]  0.0-10.0 sec  46.3 GBytes  39.7 Gbits/sec
+[  5] local 10.0.2.2 port 5001 connected with 10.0.9.2 port 35968
+[  5]  0.0-10.0 sec  47.2 GBytes  40.5 Gbits/sec
+[  4] local 10.0.2.2 port 5001 connected with 10.0.6.2 port 49324
+[  4]  0.0-10.0 sec  1.45 GBytes  1.25 Gbits/sec
+[  5] local 10.0.2.2 port 5001 connected with 10.0.7.2 port 59136
+[  5]  0.0-10.0 sec  1.13 GBytes   963 Mbits/sec
+[  4] local 10.0.2.2 port 5001 connected with 10.0.8.2 port 59756
+[  4]  0.0-10.0 sec  1.48 GBytes  1.27 Gbits/sec
+[  5] local 10.0.2.2 port 5001 connected with 10.0.9.2 port 36000
+[  5]  0.0-10.0 sec  1.22 GBytes  1.04 Gbits/sec
+[  4] local 10.0.2.2 port 5001 connected with 10.0.6.2 port 49356
+[  4]  0.0-10.0 sec  2.96 GBytes  2.53 Gbits/sec
+[  5] local 10.0.2.2 port 5001 connected with 10.0.7.2 port 59168
+[  5]  0.0-10.0 sec   113 MBytes  94.4 Mbits/sec
+[  4] local 10.0.2.2 port 5001 connected with 10.0.8.2 port 59788
+[  4]  0.0-10.0 sec   208 MBytes   174 Mbits/sec
+[  5] local 10.0.2.2 port 5001 connected with 10.0.9.2 port 36032
+[  5]  0.0-10.0 sec   177 MBytes   148 Mbits/sec
